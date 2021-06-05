@@ -1,0 +1,29 @@
+# jemdoc: addcss{jemdoc.css}
+# jemdoc: addcss{myMiddle.css}
+# jemdoc: nofooter
+= Yuxuan Zhao
+
+~~~
+{}{img_left}{photo.jpg}{150}{150}{Yuxuan Zhao}
+Yuxuan Zhao, Ph.D. Student \n
+[http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering]\n
+[http://www.cuhk.edu.hk/ The Chinese University of Hong Kong]\n
+Email: zhaoyuxuan1108@gmail.com
+~~~
+
+== Biography
+I am going to be a Ph.D. student at Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), 
+under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2021. 
+Currently, I am an undergraduate majoring in Information Engineering at [https://www.zju.edu.cn/english/ Zhejiang University (ZJU)].
+
+== Research Interest
+- Machine Learning in EDA
+- Hardware\/Algorithm Co-Optimization
+
+== Publication
+- Blank Now
+  
+== Awards
+- Hong Kong PhD Fellowship, 	CUHK, 	2021
+- First-Class Scholarship for Outstanding Merits,  ZJU,     2017, 2018, 2019
+- National Scholarship,  ZJU, 2017
