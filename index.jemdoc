@@ -21,10 +21,12 @@ Previously, I received my B.Eng. in Information Engineering at [https://www.zju.
 - Hardware\/Algorithm Co-Optimization
 
 == Publication
+- \[C3\] *Yuxuan Zhao*, Qi Sun, Zhuolun He, Yang Bai, Bei Yu, “AutoGraph: Optimizing DNN Computation Graph for Parallel GPU Kernel Execution”, AAAI Conference on Artificial Intelligence (AAAI), Feb. 7–14, 2023. 
 - \[C2\] Qi Sun, Xinyun Zhang, Hao Geng, *Yuxuan Zhao*, Yang Bai, Haisheng Zheng, Bei Yu, "GTuner: Tuning DNN Computations on GPU via Graph Attention Network", ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 10–14, 2022.
 - \[C1\] Haoyu Yang, Kit Fung, *Yuxuan Zhao*, Yibo Lin, Bei Yu, “Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Mar. 14–23, 2022.
   
 == Awards
+- 3rd Place Award in CAD Contest	ICCAD	2022
 - Hong Kong PhD Fellowship, 	CUHK, 	2021
 - First-Class Scholarship for Outstanding Merits,  ZJU,     2017, 2018, 2019
 - National Scholarship,  ZJU, 2017
