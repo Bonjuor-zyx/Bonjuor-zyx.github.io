@@ -25,9 +25,9 @@ Previously, I received my B.Eng. in Information Engineering at [https://www.zju.
 === Journal papers
 - \[J1\] Peiyu Liao\*, *Yuxuan Zhao*\*, Dawei Guo, Yibo Lin, Bei Yu, “Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2023.
 === Conference papers
-- \[C3\] *Yuxuan Zhao*, Qi Sun, Zhuolun He, Yang Bai, Bei Yu, “AutoGraph: Optimizing DNN Computation Graph for Parallel GPU Kernel Execution”, AAAI Conference on Artificial Intelligence (AAAI), Feb. 7–14, 2023. 
-- \[C2\] Qi Sun, Xinyun Zhang, Hao Geng, *Yuxuan Zhao*, Yang Bai, Haisheng Zheng, Bei Yu, "GTuner: Tuning DNN Computations on GPU via Graph Attention Network", ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 10–14, 2022.
-- \[C1\] Haoyu Yang, Kit Fung, *Yuxuan Zhao*, Yibo Lin, Bei Yu, “Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Mar. 14–23, 2022.
+- \[C3\] *Yuxuan Zhao*, Qi Sun, Zhuolun He, Yang Bai, Bei Yu, “AutoGraph: Optimizing DNN Computation Graph for Parallel GPU Kernel Execution”, AAAI Conference on Artificial Intelligence (*AAAI*), Feb. 7–14, 2023. 
+- \[C2\] Qi Sun, Xinyun Zhang, Hao Geng, *Yuxuan Zhao*, Yang Bai, Haisheng Zheng, Bei Yu, "GTuner: Tuning DNN Computations on GPU via Graph Attention Network", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, Jul. 10–14, 2022.
+- \[C1\] Haoyu Yang, Kit Fung, *Yuxuan Zhao*, Yibo Lin, Bei Yu, “Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems”, IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Mar. 14–23, 2022.
   
 == Awards
 - 3rd Place Award in CAD Contest	ICCAD	2022
