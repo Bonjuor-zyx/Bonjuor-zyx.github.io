@@ -12,7 +12,7 @@ Email: yxzhao21@cse.cuhk.edu.hk
 ~~~
 
 == Biography
-I am a Ph.D. student at Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), 
+I am a Ph.D. candidate at Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), 
 under the supervision of [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu] since Fall 2021. 
 Previously, I received my B.Eng. in Information Engineering at [https://www.zju.edu.cn/english/ Zhejiang University (ZJU)].
 
@@ -23,6 +23,7 @@ Previously, I received my B.Eng. in Information Engineering at [https://www.zju.
 
 == Publication
 === Journal papers
+- \[J2\] *Yuxuan Zhao*\*, Peiyu Liao\*, Siting Liu, Jiaxi Jiang, Yibo Lin, Bei Yu, “Analytical Heterogeneous Die-to-Die 3D Placement with Macros”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2024.
 - \[J1\] Peiyu Liao\*, *Yuxuan Zhao*\*, Dawei Guo, Yibo Lin, Bei Yu, “Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration”, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2023.
 === Conference papers
 - \[C3\] *Yuxuan Zhao*, Qi Sun, Zhuolun He, Yang Bai, Bei Yu, “AutoGraph: Optimizing DNN Computation Graph for Parallel GPU Kernel Execution”, AAAI Conference on Artificial Intelligence (*AAAI*), Feb. 7–14, 2023. 
