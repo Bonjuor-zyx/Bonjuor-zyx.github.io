@@ -24,10 +24,13 @@ Previously, I received my B.Eng. in Information Engineering at [https://www.zju.
 
 == Publication
 === Journal papers
+- \[J4\] Jiaxi Jiang, Yuan Pu, Mingjun Li, *Yuxuan Zhao*, Peiyu Liao, Zuodong Zhang, Yibo Lin, Bei Yu, "RegPlace: Regularity-aware Placement for Full-System DNN Accelerator Designs", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2024.
 - \[J3\] Yuntao Lu, Chen Bai, *Yuxuan Zhao*, Ziyue Zheng, Yangdi Lyu, Mingyu Liu, Bei Yu, "DeepVerifier: Learning to Update Test Sequences for Coverage-Guided Verification", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), 2025.
 - \[J2\] *Yuxuan Zhao*\*, Peiyu Liao\*, Siting Liu, Jiaxi Jiang, Yibo Lin, Bei Yu, "Analytical Heterogeneous Die-to-Die 3D Placement with Macros", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2024.
 - \[J1\] Peiyu Liao\*, *Yuxuan Zhao*\*, Dawei Guo, Yibo Lin, Bei Yu, "Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2023.
 === Conference papers
+- \[C8\] Peiyu Liao\*, *Yuxuan Zhao*\*, Siting Liu, Bei Yu, "Ultrafast Density Gradient Accumulation in 3D Analytical Placement with Divergence Theorem", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Munich, Oct. 26–30, 2025.
+- \[C7\] *Yuxuan Zhao*, Feng Gu, Siting Liu, Peiyu Liao, Bei Yu, "H3D: Heterogeneous Resources Aware Global Router for Face-to-Face Bonded 3D ICs", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Munich, Oct. 26–30, 2025.
 - \[C6\] *Yuxuan Zhao*, Peiyu Liao, Bei Yu, "3D-Flow: Flow-based Standard Cell Legalization for 3D ICs", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025.
 - \[C5\] Xun Jiang, Haoran Lu, *Yuxuan Zhao*, Jiarui Wang, Zizheng Guo, Heng Wu, Bei Yu, Sung Kyu Lim, Runsheng Wang, Ru Huang, Yibo Lin, "A Systematic Approach for Multi-Objective Double-Side Clock Tree Synthesis", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, Jun. 22–25, 2025.
 - \[C4\] *Yuxuan Zhao*, Lancheng Zou, Bei Yu, "Physical Design for Advanced 3D ICs: Challenges and Solutions", ACM International Symposium on Physical Design (*ISPD*), Austin, Mar. 16–19, 2025. (*Invited Paper*)
@@ -36,7 +39,8 @@ Previously, I received my B.Eng. in Information Engineering at [https://www.zju.
 - \[C1\] Haoyu Yang, Kit Fung, *Yuxuan Zhao*, Yibo Lin, Bei Yu, "Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Mar. 14–23, 2022.
   
 == Awards
-- 3rd Place Award in CAD Contest	ICCAD	2022
+- DAC Young Fellow Award,   DAC,    2025
+- 3rd Place Award in CAD Contest,	ICCAD,	2022
 - Hong Kong PhD Fellowship, 	CUHK, 	2021
 - First-Class Scholarship for Outstanding Merits,  ZJU,     2017, 2018, 2019
 - National Scholarship,  ZJU, 2017
