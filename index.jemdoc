@@ -24,12 +24,14 @@ Prior to that, I received my B.Eng. in Information Engineering at [https://www.z
 
 == Publication
 === Journal papers
+- \[J6\] Xufeng Yao, Jiaxi Jiang, *Yuxuan Zhao*, Peiyu Liao, Yibo Lin, Bei Yu,"EvoPlace: Evolution of Optimization Algorithms for Global Placement via Large Language Models", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2026.
 - \[J5\] Wendong Xu, Yuhao Ji, Yang Bai, Yueting Li, *Yuxuan Zhao*, Zhengwu Liu, Bei Yu, Ngai Wong,"PPD: A Portable and Highly Parallel Dispatching System for Deep Learning", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), 2025.
 - \[J4\] Jiaxi Jiang, Yuan Pu, Mingjun Li, *Yuxuan Zhao*, Peiyu Liao, Zuodong Zhang, Yibo Lin, Bei Yu, "RegPlace: Regularity-aware Placement for Full-System DNN Accelerator Designs", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2025.
 - \[J3\] Yuntao Lu, Chen Bai, *Yuxuan Zhao*, Ziyue Zheng, Yangdi Lyu, Mingyu Liu, Bei Yu, "DeepVerifier: Learning to Update Test Sequences for Coverage-Guided Verification", ACM Transactions on Design Automation of Electronic Systems (*TODAES*), 2025.
 - \[J2\] *Yuxuan Zhao*\*, Peiyu Liao\*, Siting Liu, Jiaxi Jiang, Yibo Lin, Bei Yu, "Analytical Heterogeneous Die-to-Die 3D Placement with Macros", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2024.
 - \[J1\] Peiyu Liao\*, *Yuxuan Zhao*\*, Dawei Guo, Yibo Lin, Bei Yu, "Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2023.
 === Conference papers
+- \[C12\] Yuhao Ji, Yunqi Shi, Tianshu Hou, *Yuxuan Zhao*, Chunyuan Zhao, Peiyu Liao, Zizheng Guo, Chao Qian, Yibo Lin, Bei Yu, "Integrated Timing-driven Placement for Hybrid-Bonding-based Face-to-Face 3D ICs", ACM/IEEE Design Automation Conference (*DAC*), Long Beach, Jul. 26–29, 2026.
 - \[C11\] Lancheng Zou, Sing Sen YE, Shuo Yin, Yuan Pu, Jiaxi Jiang, Siting Liu, *Yuxuan Zhao*, Bei Yu, "IncreMacro-3D: Incremental Macro Placement for Face-to-Face Stacked Memory-on-Logic 3D ICs", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026.
 - \[C10\] Qinggong Shen, Chaoli Zhang, Haoyang Xu, Zhiwen Yu, Bin Guo, *Yuxuan Zhao*, Bei Yu, Tsung-Yi Ho, Xing Huang,"HPPlacer: A High-Precision Slack-Aware Global Placement Engine", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Verona, Italy, Apr. 20–22, 2026.
 - \[C9\] Zhen Zhuang, Zheng Yang, *Yuxuan Zhao*, Jiawei Hu, Bei Yu, Sung Kyu Lim, Tsung-Yi Ho, "DPO-3D: Differentiable Power Delivery Network Optimization via Flexible Modeling for Routability and IR-Drop Tradeoff in Face-to-Face 3D ICs", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Hong Kong, Jan. 19-22, 2026.
