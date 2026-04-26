@@ -1,0 +1,10 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: title{Research}
+# jemdoc: menu{MENU}{research.html}
+
+== Research Interests
+
+- VLSI Placement
+- 3D ICs
+- High Performance Computing in Physical Design
+- Machine Learning in EDA
