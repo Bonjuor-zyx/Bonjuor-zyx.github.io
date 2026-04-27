@@ -3,7 +3,7 @@
 # jemdoc: menu{MENU}{index.html}
 
 ~~~
-{}{img_left}{photo.jpg}{}{170}{}{}
+{}{img_left}{photo.jpeg}{}{170}{}{}
 = Yuxuan Zhao
 
 *Postdoctoral Fellow* \n
@@ -15,16 +15,19 @@ B.Eng ([https://www.zju.edu.cn/english/ ZJU]), Ph.D. ([http://www.cuhk.edu.hk/ C
 {{<a href="https://scholar.google.com/citations?user=eNFGt6cAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar ai-2x"></i></a>}}
 ~~~
 
-== Biography
+== About
 
-Currently, I am a postdoctoral researcher at Department of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK).
+Currently, I am a postdoctoral researcher at [http://www.cse.cuhk.edu.hk/ Department of Computer Science and Engineering], [http://www.cuhk.edu.hk/ The Chinese University of Hong Kong] (CUHK).
 I received my Ph.D. degree from CUHK in 2025, supervised by [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei Yu].
 Prior to that, I received my B.Eng. in Information Engineering at [https://www.zju.edu.cn/english/ Zhejiang University (ZJU)] in 2021.
+My research interests include VLSI CAD, 3D Integrated Circuits, Machine Learning in EDA, and GPU Acceleration.
+
+I will join the [https://sse.cuhk.edu.cn/en School of Science and Engineering] at [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen], as an Assistant Professor in June 2026, and I am seeking motivated M.Phil./Ph.D. students and Research Assistants with backgrounds in electronic engineering, computer science and engineering, applied mathematics, or related fields. If you are interested, please feel free to contact me by email.
 
 == Awards
 
 - DAC Young Fellow Award, DAC, 2025
 - 3rd Place Award in CAD Contest, ICCAD, 2022
 - Hong Kong PhD Fellowship, CUHK, 2021
-- First-Class Scholarship for Outstanding Merits, ZJU, 2017, 2018, 2019
+# - First-Class Scholarship for Outstanding Merits, ZJU, 2017, 2018, 2019
 - National Scholarship, ZJU, 2017

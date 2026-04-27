@@ -1,0 +1,48 @@
+table[id^="research-figs"] {
+    border: none;
+    border-collapse: separate;
+    border-spacing: 14px 8px;
+    margin: 0.6em 0 1.1em 0;
+    width: 100%;
+}
+
+table[id^="research-figs"] td {
+    border: none;
+    padding: 0;
+    text-align: center;
+    vertical-align: top;
+    width: 33.333%;
+}
+
+table[id^="research-figs"] figure {
+    margin: 0;
+}
+
+table[id^="research-figs"] img {
+    background: #ffffff;
+    border: 1px solid #dddddd;
+    box-sizing: border-box;
+    height: 220px;
+    object-fit: contain;
+    padding: 4px;
+    width: 100%;
+}
+
+table[id^="research-figs"] a:hover {
+    border-bottom: none;
+}
+
+table[id^="research-figs"] figcaption {
+    color: #555555;
+    font-size: 90%;
+    line-height: 1.25;
+    margin-top: 0.35em;
+}
+
+#layout-content h3 ~ ul {
+    max-width: 80%;
+}
+
+#layout-content h3 ~ ul li p {
+    line-height: 1.35;
+}

@@ -6,6 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel="stylesheet" href="css/jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="css/research.css" type="text/css" />
 <title>Research</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 </head>
@@ -19,20 +20,95 @@
 <div class="menu-item"><a href="publications.html">Publications</a></div>
 </td>
 <td id="layout-content">
-<h2>Research Interests</h2>
+<h2>Research Overview</h2>
+<p>My research focuses on scalable optimization and high-performance computing for electronic design automation (EDA). I develop algorithms and systems that improve the efficiency, quality, and robustness of VLSI physical design, with current emphasis on 3D IC physical design and GPU acceleration.</p>
+<h2>3D IC Physical Design</h2>
+<p>3D IC integration offers a promising path to shorter interconnects, higher bandwidth, and heterogeneous integration,  while introducing fundamentally new physical design challenges across stacked dies. My research focuses on native 3D physical design, developing scalable analytical and combinatorial optimization methods for 3D placement, legalization, routing, and timing-driven optimization, with explicit modeling of 3D integration constraints.</p>
+<table id="research-figs-3d">
+<tr class="r1"><td class="c1"><figure><a href="img/iccad2022-case3.gif" target="blank"><img src="img/iccad2022-case3.gif" alt="3D placement case study from ICCAD 2022" /></a><figcaption>Die-to-die 3D placement</figcaption></figure> </td><td class="c2"> <figure><a href="img/iccad2023-case3.gif" target="blank"><img src="img/iccad2023-case3.gif" alt="3D macro placement case study from ICCAD 2023" /></a><figcaption>Heterogeneous 3D mixed-size placement</figcaption></figure> </td><td class="c3"> <figure><a href="img/gcd-route.png" target="blank"><img src="img/gcd-route.png" alt="3D global routing example" /></a><figcaption>Heterogeneous-resource-aware 3D routing</figcaption></figure>
+</td></tr></table>
+<h3>Selected Publications</h3>
 <ul>
-<li><p>VLSI Placement</p>
+<li><p>[C12] Yuhao Ji, Yunqi Shi, Tianshu Hou, <b>Yuxuan Zhao</b>, Chunyuan Zhao, Peiyu Liao, Zizheng Guo, Chao Qian, Yibo Lin, Bei Yu,
+&ldquo;Integrated Timing-driven Placement for Hybrid-Bonding-based Face-to-Face 3D ICs&rdquo;,
+ACM/IEEE Design Automation Conference (<b>DAC</b>), Long Beach, Jul. 26&ndash;29, 2026.</p>
 </li>
-<li><p>3D ICs</p>
+</ul>
+<ul>
+<li><p>[C11] Lancheng Zou, Sing Sen YE, Shuo Yin, Yuan Pu, Jiaxi Jiang, Siting Liu, <b>Yuxuan Zhao</b>, Bei Yu,
+&ldquo;IncreMacro-3D: Incremental Macro Placement for Face-to-Face Stacked Memory-on-Logic 3D ICs&rdquo;,
+IEEE/ACM Proceedings Design, Automation and Test in Europe (<b>DATE</b>), Verona, Italy, Apr. 20&ndash;22, 2026. (<a href="files/C11-DATE2026-IncreMacro3D.pdf" target=&ldquo;blank&rdquo;>PDF</a>)</p>
 </li>
-<li><p>High Performance Computing in Physical Design</p>
+</ul>
+<ul>
+<li><p>[C7] <b>Yuxuan Zhao</b>, Feng Gu, Siting Liu, Peiyu Liao, Bei Yu,
+&ldquo;H3D: Heterogeneous Resources Aware Global Router for Face-to-Face Bonded 3D ICs&rdquo;,
+IEEE/ACM International Conference on Computer-Aided Design (<b>ICCAD</b>), Munich, Oct. 26&ndash;30, 2025. (<a href="files/C7-ICCAD2025-3DRoute.pdf" target=&ldquo;blank&rdquo;>PDF</a>)</p>
 </li>
-<li><p>Machine Learning in EDA</p>
+</ul>
+<ul>
+<li><p>[C6] <b>Yuxuan Zhao</b>, Peiyu Liao, Bei Yu,
+&ldquo;3D-Flow: Flow-based Standard Cell Legalization for 3D ICs&rdquo;,
+ACM/IEEE Design Automation Conference (<b>DAC</b>), San Francisco, Jun. 22&ndash;25, 2025. (<a href="files/C6-DAC2025-3DFlow.pdf" target=&ldquo;blank&rdquo;>PDF</a>)</p>
+</li>
+</ul>
+<ul>
+<li><p>[J2] <b>Yuxuan Zhao</b>*, Peiyu Liao*, Siting Liu, Jiaxi Jiang, Yibo Lin, Bei Yu,
+&ldquo;Analytical Heterogeneous Die-to-Die 3D Placement with Macros&rdquo;,
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<b>TCAD</b>), 2024. (<a href="files/J2-TCAD2025-3DMacroPlace.pdf" target=&ldquo;blank&rdquo;>PDF</a>)(<a href="https://drive.google.com/drive/folders/1K-L2L-doreedLcijgDKliak-ReGeXlNq?usp=sharing" target=&ldquo;blank&rdquo;>Binary</a>)</p>
+</li>
+</ul>
+<ul>
+<li><p>[J1] Peiyu Liao*, <b>Yuxuan Zhao</b>*, Dawei Guo, Yibo Lin, Bei Yu,
+&ldquo;Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration&rdquo;,
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<b>TCAD</b>), 2023. (<a href="files/J1-TCAD2024-3DPlace.pdf" target=&ldquo;blank&rdquo;>PDF</a>)(<a href="https://drive.google.com/drive/folders/15_ofGVIGFJ0-JOt9v0iu2GjMALp-ecC-?usp=sharing" target=&ldquo;blank&rdquo;>Binary</a>)</p>
+</li>
+</ul>
+<h2>GPU Acceleration</h2>
+<p>GPU acceleration is essential for scaling modern EDA and machine learning workloads, but effective acceleration requires more than simply porting algorithms to parallel hardware. My research develops GPU-friendly formulations, graph transformations, and parallel kernels that transform irregular optimization problems into efficient, hardware-aware computation across a broad range of applications.</p>
+<table id="research-figs-gpu">
+<tr class="r1"><td class="c1"><figure><a href="img/GPU-structure.png" target="blank"><img src="img/GPU-structure.png" alt="GPU execution structure" /></a><figcaption>GPU accelerated 3D placement</figcaption></figure> </td><td class="c2"> <figure><a href="img/div-example.png" target="blank"><img src="img/div-example.png" alt="Divergence theorem example for density gradient accumulation" /></a><figcaption>Divergence-theorem acceleration</figcaption></figure> </td><td class="c3"> <figure><a href="img/graph-opt.png" target="blank"><img src="img/graph-opt.png" alt="Computation graph optimization" /></a><figcaption>Computation graph optimization</figcaption></figure>
+</td></tr></table>
+<h3>Selected Publications</h3>
+<ul>
+<li><p>[C8] Peiyu Liao*, <b>Yuxuan Zhao</b>*, Siting Liu, Bei Yu,
+&ldquo;Ultrafast Density Gradient Accumulation in 3D Analytical Placement with Divergence Theorem&rdquo;,
+IEEE/ACM International Conference on Computer-Aided Design (<b>ICCAD</b>), Munich, Oct. 26&ndash;30, 2025. (<a href="files/C8-ICCAD2025-3DPlaceAcc.pdf" target=&ldquo;blank&rdquo;>PDF</a>)</p>
+</li>
+</ul>
+<ul>
+<li><p>[J2] <b>Yuxuan Zhao</b>*, Peiyu Liao*, Siting Liu, Jiaxi Jiang, Yibo Lin, Bei Yu,
+&ldquo;Analytical Heterogeneous Die-to-Die 3D Placement with Macros&rdquo;,
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<b>TCAD</b>), 2024. (<a href="files/J2-TCAD2025-3DMacroPlace.pdf" target=&ldquo;blank&rdquo;>PDF</a>)(<a href="https://drive.google.com/drive/folders/1K-L2L-doreedLcijgDKliak-ReGeXlNq?usp=sharing" target=&ldquo;blank&rdquo;>Binary</a>)</p>
+</li>
+</ul>
+<ul>
+<li><p>[J1] Peiyu Liao*, <b>Yuxuan Zhao</b>*, Dawei Guo, Yibo Lin, Bei Yu,
+&ldquo;Analytical Die-to-Die 3D Placement with Bistratal Wirelength Model and GPU Acceleration&rdquo;,
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (<b>TCAD</b>), 2023. (<a href="files/J1-TCAD2024-3DPlace.pdf" target=&ldquo;blank&rdquo;>PDF</a>)(<a href="https://drive.google.com/drive/folders/15_ofGVIGFJ0-JOt9v0iu2GjMALp-ecC-?usp=sharing" target=&ldquo;blank&rdquo;>Binary</a>)</p>
+</li>
+</ul>
+<ul>
+<li><p>[C3] <b>Yuxuan Zhao</b>, Qi Sun, Zhuolun He, Yang Bai, Bei Yu,
+&ldquo;AutoGraph: Optimizing DNN Computation Graph for Parallel GPU Kernel Execution&rdquo;,
+AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Feb. 7&ndash;14, 2023. (<b>Oral</b>) (<a href="files/C3-AAAI2023-AutoGraph.pdf" target=&ldquo;blank&rdquo;>PDF</a>)</p>
+</li>
+</ul>
+<ul>
+<li><p>[C2] Qi Sun, Xinyun Zhang, Hao Geng, <b>Yuxuan Zhao</b>, Yang Bai, Haisheng Zheng, Bei Yu,
+&ldquo;GTuner: Tuning DNN Computations on GPU via Graph Attention Network&rdquo;,
+ACM/IEEE Design Automation Conference (<b>DAC</b>), San Francisco, CA, Jul. 10&ndash;14, 2022. (<a href="files/C2-DAC2022-GTuner.pdf" target=&ldquo;blank&rdquo;>PDF</a>)</p>
+</li>
+</ul>
+<ul>
+<li><p>[C1] Haoyu Yang, Kit Fung, <b>Yuxuan Zhao</b>, Yibo Lin, Bei Yu,
+&ldquo;Mixed-Cell-Height Legalization on CPU-GPU Heterogeneous Systems&rdquo;,
+IEEE/ACM Proceedings Design, Automation and Test in Europe (<b>DATE</b>), Mar. 14&ndash;23, 2022. (<a href="files/C1-DATE2022-LegalGPU.pdf" target=&ldquo;blank&rdquo;>PDF</a>)</p>
 </li>
 </ul>
 <div id="footer">
 <div id="footer-text">
-Page generated 2026-04-27 01:02:24 HKT, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2026-04-28 00:03:39 CST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
