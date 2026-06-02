@@ -1,0 +1,32 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: title{Services}
+# jemdoc: menu{MENU}{services.html}
+
+== Professional Service
+
+=== Program Committee Member
+
+- ACM/IEEE International Conference on Computer-Aided Design (*ICCAD*), 2026
+- IEEE International Conference on Computer Design (*ICCD*), 2026
+
+=== Conference Reviewer
+
+- ACM/IEEE Design Automation Conference (*DAC*)
+- ACM/IEEE International Conference on Computer-Aided Design (*ICCAD*)
+- IEEE International Conference on Computer Design (*ICCD*)
+- ACM International Symposium on Physical Design (*ISPD*)
+- IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*)
+
+=== Journal Reviewer
+
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
+- ACM Transactions on Design Automation of Electronic Systems (*TODAES*)
+- IEEE Transactions on Very Large Scale Integration Systems (*TVLSI*)
+
+# == Teaching
+
+# === Teaching Assistant
+
+# - *CENG3420* Computer Organization & Design, Spring 2022
+# - *CSCI3310* Mobile Computing and Applications Development, Spring 2021
+# - *ENGG1110F* Problem Solving By Programming, Fall 2021
